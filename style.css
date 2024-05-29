@@ -503,4 +503,7 @@ gap: 1rem;
     section{
         padding: 60px 3% 50px;
     }
+      .btn { padding: 6px 15px; /* Adjust padding for extremely small screens */
+        font-size: 11px; /* Further decrease font size for extremely small screens */
+    }
 }
